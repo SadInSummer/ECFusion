@@ -1,5 +1,5 @@
 # ECFusion
-This is code of "ECFusion: Edge-guided Cross-scale Fusion Based on Generative Adversarial Learning for Multi-modal Medical Image Fusion"(TSH'25)
+This is code of "ECFusion: Edge-guided Cross-scale Fusion Based on Generative Adversarial Learning for Multi-modal Medical Image Fusion"(TST'25)
 
 
 Just prepared the data and the filefloders, and prepared the vgg pre-trained (it will be download when you python this train.py and test.py)
